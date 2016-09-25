@@ -202,7 +202,7 @@ $(IMS_SYMLINKS): $(LOCAL_INSTALLED_MODULE)
 	@mkdir -p $(dir $@)
 	@rm -rf $@
 	$(hide) ln -sf /system/vendor/lib64/$(notdir $@) $@
- -
+
 ALL_DEFAULT_INSTALLED_MODULES += $(IMS_SYMLINKS)
 
 
