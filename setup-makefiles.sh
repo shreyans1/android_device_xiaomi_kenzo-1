@@ -69,7 +69,8 @@ done
 PRODUCT_PACKAGES += \\
     CNEService \\
     ims \\
-    imssettings
+    imssettings \\
+    imscmlibrary
 
 PRODUCT_PACKAGES += \\
     com.qualcomm.location
