@@ -70,7 +70,8 @@ PRODUCT_PACKAGES += \\
     CNEService \\
     ims \\
     imssettings \\
-    imscmlibrary
+    imscmlibrary \\
+    ims-common
 
 PRODUCT_PACKAGES += \\
     com.qualcomm.location
