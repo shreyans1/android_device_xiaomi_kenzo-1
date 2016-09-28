@@ -91,6 +91,9 @@ persist.radio.multisim.config=dsds
 persist.radio.NO_STAPA=1
 persist.radio.rat_on=combine
 persist.radio.sib16_support=1
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.radio.VT_HYBRID_ENABLE=1
 
 # TCP
 net.tcp.2g_init_rwnd=10
